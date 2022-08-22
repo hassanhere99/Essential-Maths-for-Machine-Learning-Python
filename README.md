@@ -11,4 +11,4 @@ The course is divided in four modules.
 
 4- Module four is of Statistics and Probability.
 
-I have named the files according to the modules. Open the file sequence wise and read the explanations and try to understand the codes and compile them. 
+I have named the files according to the modules. Open the file sequence wise, read the explanations, try to understand the code and compile it. 
